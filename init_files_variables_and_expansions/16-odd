@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n | cut -c 7 
+cat -n | cut -c 2 
