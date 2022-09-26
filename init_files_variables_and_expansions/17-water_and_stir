@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((($bestchol#$WATER)+($bestchol#$STIR)))
+$WATER | tr water 01234 | $((5#water))
