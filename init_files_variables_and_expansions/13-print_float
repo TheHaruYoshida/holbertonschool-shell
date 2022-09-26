@@ -1,2 +1,2 @@
 #!/bin/bash
-system.out.printf((%.2f,$NUM))
+printf(" %.2f", $NUM)
